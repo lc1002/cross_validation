@@ -95,3 +95,6 @@ rmse(wiggly_mod, test_df)
 ```
 
     ## [1] 0.289051
+
+-   Iteration process that goes back to the 80-20 and splits and run
+    again and repeatedly
